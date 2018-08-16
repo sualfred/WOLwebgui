@@ -66,7 +66,7 @@
 
 		<?php if ($pinginfo == "" AND $_GET['wake'] == null) { ?>
 			<p class="output"></p>
-			<p class="output"><a href="?wake=true"">Wake up, <?php echo $name ?></a> ... follow the white rabbit.</a></p>
+			<p class="output"><a href="?wake=true">Wake up, <?php echo $name ?></a> ... follow the white rabbit.</a></p>
 		<?php } ?>
 
 	</div>
